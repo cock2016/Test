@@ -1,1 +1,1 @@
-select * from persona where id = 1
+select * from persona where id = 1 order by id
